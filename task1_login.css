@@ -1,0 +1,82 @@
+img{
+    height: 100%;
+    width: 100%;
+    position: relative;
+}
+
+.whitebox{
+    position: absolute;
+    background-color: white;
+    height: 73%;
+    width: 26%;
+    top: 101px;
+    left: 34%;
+
+}
+
+h1{
+    position: absolute;
+    font-family: sans-serif;
+    top: 189px;
+    left: 90px;
+}
+
+div img{
+    position: absolute;
+    top: 12px;
+    left: 99px;
+    height: 215px;
+    width: 215px;
+}
+
+.username{
+    position: absolute;
+    top: 260px;
+    padding: 10px 10px 10px 10px;
+    left: 26px;
+    width: 84%;
+}
+
+.password{
+    position: absolute;
+    top: 320px;
+    padding: 10px 10px 10px 10px;
+    left: 26px;
+    width: 84%;
+}
+
+button{
+    position: absolute;
+    top: 380px;
+    width: 84%;
+    padding: 10px 10px 10px 10px;
+    left: 26px;
+    background-color: rgb(255 1 60);
+    color: white;
+    border-radius: 8px;
+}
+
+.footer{
+    position: absolute;
+    top:400px ;
+}
+
+.forgot{
+    position: absolute;
+    top: 438px;
+    left: 35%;
+}
+
+.dont{
+    position: absolute;
+    top: 469px;
+    left: 25%;
+}
+
+span a{
+    color:rgb(255 1 60);
+    position: absolute;
+    top: 469px;
+    right: 90px;
+    font-family: sans-serif;
+}
